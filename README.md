@@ -1,3 +1,5 @@
+# AI 부트캠프 프로젝트 링크
+
 ### 1. **데이터 분석 능력을 활용한 게임 제작 분기 계획**
 
 - Git 주소 : https://github.com/yskim1230/AIB_Section1-PJT_Game-Production-Plan
