@@ -1,3 +1,7 @@
+# 노션 링크
+https://ripe-jaborosa-b0a.notion.site/dbc0476e718d4a48878db2daf5cd4876?pvs=4
+
+
 # AI 부트캠프 프로젝트 링크
 
 ### 1. **데이터 분석 능력을 활용한 게임 제작 분기 계획**
